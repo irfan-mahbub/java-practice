@@ -11,7 +11,7 @@ public class Num {
         myNum = 20;
         System.out.println(myNum);
 
-        var x = 5; // x is an int
+        /*var x = 5; // x is an int
         System.out.println(x);
         var myDouble = 9.98; // double
         var myChar = 'D'; // char
@@ -26,11 +26,11 @@ public class Num {
          * String myText = "Hello";
          */
 
-        int x = 5;
-        int y = 6;
+        int a = 5;
+        int b = 6;
 
-        System.out.println("The sum is " + x + y); // Prints: The sum is 56
-        System.out.println("The sum is " + (x + y));
+        System.out.println("The sum is " + a + b); // Prints: The sum is 56
+        System.out.println("The sum is " + (a + b));
 
         /*
          * final int myNum = 15;
